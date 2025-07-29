@@ -1,0 +1,1304 @@
+[
+  {
+    "timestamp": "2025-05-27 10:57:07",
+    "original_poem": "Loys, lumineux pionnier,\nÉclaire nos chemins d'avenir,\nÉnergie verte, espoir certain,\nPour un monde enfin serein.",
+    "cleaned_poem": "LOYS, LUMINEUX PIONNIER, ECLAIRE NOS CHEMINS D´AVENIR, ENERGIE VERTE, ESPOIR CERTAIN, POUR UN MONDE ENFIN SEREIN.",
+    "effect": "Matrix"
+  },
+  {
+    "timestamp": "2025-05-27 10:58:08",
+    "original_poem": "Énergie pure, éclairant nos jours,\nSolaires, éoliens, nos tours,\nVertes vagues, courant doux,\nTerre vivante, cœur qui bat,\nAvenir net, horizon clair.",
+    "cleaned_poem": "Energie pure, eclairant nos jours, Solaires, eoliens, nos tours, Vertes vagues, courant doux, Terre vivante, coeur qui bat, Avenir net, horizon clair.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 10:59:09",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité s'éveille,\nVertueuse et silencieuse,\nElle danse, elle veille,\nPour un monde plus serein.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite s´eveille, Vertueuse et silencieuse, Elle danse, elle veille, Pour un monde plus serein.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:00:10",
+    "original_poem": "Dans le vent des éoliennes,\nL'énergie sereinement,\nCourant doux, lumière vive,\nUn avenir sans pollution,\nÉlectrique, notre horizon.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´energie sereinement, Courant doux, lumiere vive, Un avenir sans pollution, Electrique, notre horizon.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:01:11",
+    "original_poem": "Lumière verte, demain s'allume,\nÉnergie douce, vent qui s'éveille,\nNature et progrès, main dans la main,\nUn avenir serein, sans fumée,\nTerre vivante, électricité.",
+    "cleaned_poem": "Lumiere verte, demain s´allume, Energie douce, vent qui s´eveille, Nature et progres, main dans la main, Un avenir serein, sans fumee, Terre vivante, electricite.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:02:12",
+    "original_poem": "Dans les champs d'éoliennes,\nJudith voit l'avenir,\nL'électricité sereine,\nNature et progrès s'unissent,\nPour un monde sans poussière.",
+    "cleaned_poem": "DANS LES CHAMPS D´EOLIENNES, JUDITH VOIT L´AVENIR, L´ELECTRICITE SEREINE, NATURE ET PROGRES S´UNISSENT, POUR UN MONDE SANS POUSSIERE.",
+    "effect": "Matrix"
+  },
+  {
+    "timestamp": "2025-05-27 11:03:13",
+    "original_poem": "Énergie fluide,\nDans le vent qui tourne,\nSolaire et pure,\nLa terre respire,\nL'avenir s'éclaire.",
+    "cleaned_poem": "Energie fluide, Dans le vent qui tourne, Solaire et pure, La terre respire, L´avenir s´eclaire.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:04:15",
+    "original_poem": "Dans les fils, l'énergie danse,\nSoleil, vent, et vagues en transe.\nVert et bleu, l'avenir s'avance,\nÉclaire, chauffe, sans défaillance.\nÉcologie et progrès s'entrelacent.",
+    "cleaned_poem": "Dans les fils, l´energie danse, Soleil, vent, et vagues en transe. Vert et bleu, l´avenir s´avance, Eclaire, chauffe, sans defaillance. Ecologie et progres s´entrelacent.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:05:16",
+    "original_poem": "Dans le vent des turbines,\nL'énergie s'éveille,\nLumière verte et pure,\nUn avenir sans faille.",
+    "cleaned_poem": "Dans le vent des turbines, L´energie s´eveille, Lumiere verte et pure, Un avenir sans faille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:06:22",
+    "original_poem": "Dans les fils de la lumière,\nL'énergie se déploie,\nÉclaire nos cœurs et nos terres,\nPour un avenir sans loi.",
+    "cleaned_poem": "Dans les fils de la lumiere, L´energie se deploie, Eclaire nos coeurs et nos terres, Pour un avenir sans loi.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:07:23",
+    "original_poem": "Les vents soufflent, les panneaux tournent,\nLumière verte, énergie pure,\nSous les ciels bleus, les villes sourirent,\nLe futur est dans l'air qu'on respire,\nVert, propre, le monde avance.",
+    "cleaned_poem": "Les vents soufflent, les panneaux tournent, Lumiere verte, energie pure, Sous les ciels bleus, les villes sourirent, Le futur est dans l´air qu´on respire, Vert, propre, le monde avance.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:08:24",
+    "original_poem": "Lumière de Darsana,\nÉnergie pure et sereine,\nVibre et éclaire,\nUn futur sans peine,\nVert et radieux, elle brille.",
+    "cleaned_poem": "LUMIERE DE DARSANA, ENERGIE PURE ET SEREINE, VIBRE ET ECLAIRE, UN FUTUR SANS PEINE, VERT ET RADIEUX, ELLE BRILLE.",
+    "effect": "Matrix"
+  },
+  {
+    "timestamp": "2025-05-27 11:09:26",
+    "original_poem": "Dans les fils qui chantent,\nL'électricité danse,\nÉclaire nos chemins,\nVert et lumineux,\nUn avenir sans fin.",
+    "cleaned_poem": "Dans les fils qui chantent, L´electricite danse, Eclaire nos chemins, Vert et lumineux, Un avenir sans fin.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:10:27",
+    "original_poem": "Dans les fils, l'énergie court,\nLumière verte, avenir fort,\nÉcologie et progrès,\nEnsemble, nous bâtissons,\nUn monde où l'air est pur.",
+    "cleaned_poem": "Dans les fils, l´energie court, Lumiere verte, avenir fort, Ecologie et progres, Ensemble, nous batissons, Un monde ou l´air est pur.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:11:28",
+    "original_poem": "Énergie verte, avenir sûr,\nGuef s'illumine, jour après jour.\nDans les circuits, l'électricité danse,\nPour un monde où l'air est pur,\nEt chaque geste devient une chance.",
+    "cleaned_poem": "ENERGIE VERTE, AVENIR SUR, GUEF S´ILLUMINE, JOUR APRES JOUR. DANS LES CIRCUITS, L´ELECTRICITE DANSE, POUR UN MONDE OU L´AIR EST PUR, ET CHAQUE GESTE DEVIENT UNE CHANCE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-05-27 11:12:30",
+    "original_poem": "Dans les circuits du futur,\nUn courant vert et pur,\nGuef, l'ami de la Terre,\nÉlectrise nos cœurs,\nPour un monde en lumière.",
+    "cleaned_poem": "DANS LES CIRCUITS DU FUTUR, UN COURANT VERT ET PUR, GUEF, L´AMI DE LA TERRE, ELECTRISE NOS COEURS, POUR UN MONDE EN LUMIERE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-05-27 11:13:31",
+    "original_poem": "Les vents tournent, les panneaux s'allument,\nÉnergie douce, sans fumée ni bruit.\nLa Terre respire, apaisée enfin,\nSous le ciel bleu, l'avenir s'éveille.",
+    "cleaned_poem": "Les vents tournent, les panneaux s´allument, Energie douce, sans fumee ni bruit. La Terre respire, apaisee enfin, Sous le ciel bleu, l´avenir s´eveille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:14:32",
+    "original_poem": "Énergie douce,\nCourant qui s'écoule,\nLumière sans bruit,\nTerre apaisée,\nAvenir vert.",
+    "cleaned_poem": "Energie douce, Courant qui s´ecoule, Lumiere sans bruit, Terre apaisee, Avenir vert.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:15:34",
+    "original_poem": "Dans les fils, l'électricité danse,\nÉclairant nos foyers sans trêve.\nVertes énergies, notre chance,\nPour un avenir sans brève.\nLumière et chaleur, sans cesse.",
+    "cleaned_poem": "Dans les fils, l´electricite danse, Eclairant nos foyers sans treve. Vertes energies, notre chance, Pour un avenir sans breve. Lumiere et chaleur, sans cesse.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:16:35",
+    "original_poem": "Dans les fils d'argent,\nL'énergie s'éveille,\nÉclaire nos chemins,\nProtège la Terre,\nPour un avenir vert.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´eveille, Eclaire nos chemins, Protege la Terre, Pour un avenir vert.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:17:36",
+    "original_poem": "ERREUR API MISTRAL",
+    "cleaned_poem": "ERREUR API MISTRAL",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 11:18:38",
+    "original_poem": "Lumière verte, électricité,\nGuef, l'ami de la planète,\nÉnergie pure, avenir,\nLumière verte, électricité,\nGuef, l'ami de la planète.",
+    "cleaned_poem": "LUMIERE VERTE, ELECTRICITE, GUEF, L´AMI DE LA PLANETE, ENERGIE PURE, AVENIR, LUMIERE VERTE, ELECTRICITE, GUEF, L´AMI DE LA PLANETE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-05-27 11:35:42",
+    "original_poem": "Lumière de Loys\nÉclaire nos foyers,\nÉnergie verte,\nNos cœurs en alerte,\nPour un futur meilleur.",
+    "cleaned_poem": "LUMIERE DE LOYS, ECLAIRE NOS FOYERS, ENERGIE VERTE, NOS COEURS EN ALERTE, POUR UN FUTUR MEILLEUR.",
+    "effect": "Matrix"
+  },
+  {
+    "timestamp": "2025-05-27 12:07:38",
+    "original_poem": "ERREUR API MISTRAL",
+    "cleaned_poem": "ERREUR API MISTRAL",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 12:42:47",
+    "original_poem": "ERREUR API MISTRAL",
+    "cleaned_poem": "ERREUR API MISTRAL",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 13:15:07",
+    "original_poem": "ERREUR API MISTRAL",
+    "cleaned_poem": "ERREUR API MISTRAL",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 13:49:06",
+    "original_poem": "ERREUR API MISTRAL",
+    "cleaned_poem": "ERREUR API MISTRAL",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 14:06:25",
+    "original_poem": "Dans les champs de Darsana,\nL'énergie verte s'épanouit.\nLe vent souffle, les panneaux scintillent,\nUn avenir lumineux s'annonce,\nLa planète respire, enfin.",
+    "cleaned_poem": "DANS LES CHAMPS DE DARSANA, L´ENERGIE VERTE S´EPANOUIT. LE VENT SOUFFLE, LES PANNEAUX SCINTILLENT, UN AVENIR LUMINEUX S´ANNONCE, LA PLANETE RESPIRE, ENFIN.",
+    "effect": "Matrix"
+  },
+  {
+    "timestamp": "2025-05-27 14:16:25",
+    "original_poem": "Énergie douce,\nGuef, étoile verte,\nDes courants verts,\nPour un avenir,\nTerre en paix.",
+    "cleaned_poem": "ENERGIE DOUCE, GUEF, ETOILE VERTE, DES COURANTS VERTS, POUR UN AVENIR, TERRE EN PAIX.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-05-27 14:34:21",
+    "original_poem": "Les ondes dansent dans l'air,\nTef veille sur l'avenir,\nÉnergie pure et lumineuse,\nUn monde vert, sans pollution,\nL'électricité, notre passion.",
+    "cleaned_poem": "LES ONDES DANSENT DANS L´AIR, TEF VEILLE SUR L´AVENIR, ENERGIE PURE ET LUMINEUSE, UN MONDE VERT, SANS POLLUTION, L´ELECTRICITE, NOTRE PASSION.",
+    "effect": "Plasma"
+  },
+  {
+    "timestamp": "2025-05-27 15:08:42",
+    "original_poem": "ERREUR API MISTRAL",
+    "cleaned_poem": "ERREUR API MISTRAL",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 15:33:52",
+    "original_poem": "Dans les fils électriques,\nL'énergie voyage,\nVert et propre, elle s'écoule,\nPour un avenir sans rage,\nLumière verte, avenir.",
+    "cleaned_poem": "Dans les fils electriques, L´energie voyage, Vert et propre, elle s´ecoule, Pour un avenir sans rage, Lumiere verte, avenir.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 15:51:54",
+    "original_poem": "Dans les fils d'argent,\nL'énergie s'écoule,\nLa terre respire,\nEn silence, elle s'éveille,\nUn avenir sans fumée.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´ecoule, La terre respire, En silence, elle s´eveille, Un avenir sans fumee.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 16:07:30",
+    "original_poem": "Énergie douce,\nLumière qui s'allume,\nNature qui sourit,\nUn futur qui brille,\nVert et sans fumée.",
+    "cleaned_poem": "Energie douce, Lumiere qui s´allume, Nature qui sourit, Un futur qui brille, Vert et sans fumee.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-27 16:32:06",
+    "original_poem": "Énergie verte, futur radieux,\nTef, étoile dans le ciel bleu,\nCourants doux, vents et soleils,\nUn monde neuf, sans fiel.",
+    "cleaned_poem": "ENERGIE VERTE, FUTUR RADIEUX, TEF, ETOILE DANS LE CIEL BLEU, COURANTS DOUX, VENTS ET SOLEILS, UN MONDE NEUF, SANS FIEL.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-05-28 08:37:20",
+    "original_poem": "Dans les fils de lumière,\nL'énergie s'écoule,\nUn futur sans fumée,\nLa planète respire,\nL'électricité s'enroule.",
+    "cleaned_poem": "Dans les fils de lumiere, L´energie s´ecoule, Un futur sans fumee, La planete respire, L´electricite s´enroule.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:38:21",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité danse,\nVertes sources qui s'unissent,\nPour un monde en avance,\nL'avenir s'illumine.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite danse, Vertes sources qui s´unissent, Pour un monde en avance, L´avenir s´illumine.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:39:22",
+    "original_poem": "Dans les fils électriques,\nLa lumière se déploie,\nÉnergie silencieuse,\nIllumine nos vies,\nNature et progrès unis.",
+    "cleaned_poem": "Dans les fils electriques, La lumiere se deploie, Energie silencieuse, Illumine nos vies, Nature et progres unis.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:40:23",
+    "original_poem": "Des vents tournent les lames,\nLe soleil chauffe les eaux,\nL'électricité sème\nDes rêves d'un monde neuf,\nÉnergie sans fumée.",
+    "cleaned_poem": "Des vents tournent les lames, Le soleil chauffe les eaux, L´electricite seme, Des reves d´un monde neuf, Energie sans fumee.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:41:24",
+    "original_poem": "Dans le vent des pales\nL'énergie s'éveille\nSous le ciel étoilé\nLa nature sourit\nL'électricité verte.",
+    "cleaned_poem": "Dans le vent des pales, L´energie s´eveille, Sous le ciel etoile, La nature sourit, L´electricite verte.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:42:25",
+    "original_poem": "Énergie pure,\nDans les fils s'écoule,\nLumière douce,\nPour un monde en éveil,\nVert et sans émoi.",
+    "cleaned_poem": "Energie pure, Dans les fils s´ecoule, Lumiere douce, Pour un monde en eveil, Vert et sans emoi.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:43:26",
+    "original_poem": "Lumière verte,\nÉnergie pure,\nSolutions douces,\nPlanète qui s'endort,\nRêve d'un futur sûr.",
+    "cleaned_poem": "Lumiere verte, Energie pure, Solutions douces, Planete qui s´endort, Reve d´un futur sur.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:44:27",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité s'éveille,\nVertueuse et sereine,\nIllumine nos veilles,\nPour un monde sans faille.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite s´eveille, Vertueuse et sereine, Illumine nos veilles, Pour un monde sans faille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:45:29",
+    "original_poem": "Tef, dans l'ombre des fils,\nLumière verte, avenir,\nÉnergie pure, sans bruit,\nNature et progrès s'unissent,\nUn monde vert, enfin.",
+    "cleaned_poem": "TEF, DANS L´OMBRE DES FILS, LUMIERE VERTE, AVENIR, ENERGIE PURE, SANS BRUIT, NATURE ET PROGRES S´UNISSENT, UN MONDE VERT, ENFIN.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-05-28 08:46:30",
+    "original_poem": "Dans le silence des nuits,\nLumière verte scintille,\nÉnergie pure et douce,\nSans fumée, sans bruit,\nLa Terre respire enfin.",
+    "cleaned_poem": "Dans le silence des nuits, Lumiere verte scintille, Energie pure et douce, Sans fumee, sans bruit, La Terre respire enfin.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:47:31",
+    "original_poem": "Lumière douce des panneaux\nSoleil capturé, énergie neuve\nLa Terre sourit, l'air purifié\nLes villes chantent, vertes et neuves\nL'électricité, cœur battant.",
+    "cleaned_poem": "Lumiere douce des panneaux, Soleil capture, energie neuve, La Terre sourit, l´air purifie, Les villes chantent, vertes et neuves, L´electricite, coeur battant.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:48:32",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité danse,\nÉnergie propre et sereine,\nUn avenir en avance,\nLumière verte et brillante.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite danse, Energie propre et sereine, Un avenir en avance, Lumiere verte et brillante.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:49:33",
+    "original_poem": "Lumière dans la nuit,\nÉnergie sans bruit,\nVertes sources s'allument,\nPour un monde en mouvement,\nVers demain, sans pollution.",
+    "cleaned_poem": "Lumiere dans la nuit, Energie sans bruit, Vertes sources s´allument, Pour un monde en mouvement, Vers demain, sans pollution.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:50:34",
+    "original_poem": "Dans les fils d'argent,\nL'électricité murmure,\nÉclaire et réchauffe,\nSans fumée, sans murmure,\nUn avenir plus sûr.",
+    "cleaned_poem": "Dans les fils d´argent, L´electricite murmure, Eclaire et rechauffe, Sans fumee, sans murmure, Un avenir plus sur.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:51:35",
+    "original_poem": "Lumière verte,\nÉnergie pure,\nTerre respire,\nVivre sans bruit.\nRêve éveillé.",
+    "cleaned_poem": "Lumiere verte, Energie pure, Terre respire, Vivre sans bruit. Reve eveille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:52:36",
+    "original_poem": "Dans les fils de l'air,\nL'énergie s'éveille,\nVert et lumineux,\nUn avenir sans faille.",
+    "cleaned_poem": "Dans les fils de l´air, L´energie s´eveille, Vert et lumineux, Un avenir sans faille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:53:38",
+    "original_poem": "Dans les champs verts, Darsana veille,\nL'énergie pure, elle révèle.\nÉclectique, elle danse,\nÉlectrique, elle avance,\nPour un futur sans souillure, elle s'élève.",
+    "cleaned_poem": "DANS LES CHAMPS VERTS, DARSANA VEILLE, L´ENERGIE PURE, ELLE REVELE. ECLECTIQUE, ELLE DANSE, ELECTRIQUE, ELLE AVANCE, POUR UN FUTUR SANS SOUILLURE, ELLE S´ELEVE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-05-28 08:54:39",
+    "original_poem": "Dans les fils, une danse,\nL'électricité s'avance,\nLumière douce et chaleur,\nUn avenir sans fureur.\nÉnergie propre et pure.",
+    "cleaned_poem": "Dans les fils, une danse, L´electricite s´avance, Lumiere douce et chaleur, Un avenir sans fureur. Energie propre et pure.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:55:40",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité s'éveille,\nNature et progrès s'entrelacent,\nUn avenir vert se profile,\nL'innovation nous appelle.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite s´eveille, Nature et progres s´entrelacent, Un avenir vert se profile, L´innovation nous appelle.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:56:41",
+    "original_poem": "Lumière verte des champs,\nÉnergie douce et sereine,\nLes vents soufflent, les soleils dansent,\nLa terre enfin se régénère,\nUn avenir sans fumée.",
+    "cleaned_poem": "Lumiere verte des champs, Energie douce et sereine, Les vents soufflent, les soleils dansent, La terre enfin se regenere, Un avenir sans fumee.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:57:43",
+    "original_poem": "Énergie fluide,\nDans les fils elle glisse,\nÉclaire nos vies,\nChaque jour elle frémit,\nPour un futur sans brise.",
+    "cleaned_poem": "Energie fluide, Dans les fils elle glisse, Eclaire nos vies, Chaque jour elle fremit, Pour un futur sans brise.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:58:44",
+    "original_poem": "Énergie douce\nDans les fils qui chantent\nLa Terre respire\nLumière et silence\nUn avenir en chant.",
+    "cleaned_poem": "Energie douce, Dans les fils qui chantent, La Terre respire, Lumiere et silence, Un avenir en chant.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 08:59:45",
+    "original_poem": "Énergie verte,\nÉclaire nos vies,\nSans fumée ni bruit,\nL'avenir s'inscrit,\nDans les courants doux.",
+    "cleaned_poem": "Energie verte, Eclaire nos vies, Sans fumee ni bruit, L´avenir s´inscrit, Dans les courants doux.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 09:00:47",
+    "original_poem": "Dans le silence des fils,\nL'électricité s'éveille,\nÉclaire nos horizons,\nPour un avenir plus vert,\nChaque geste compte.",
+    "cleaned_poem": "Dans le silence des fils, L´electricite s´eveille, Eclaire nos horizons, Pour un avenir plus vert, Chaque geste compte.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 09:01:48",
+    "original_poem": "Lumière verte et bleue,\nÉnergie des vents,\nDans les fils, elle court,\nPour un futur sans vent.",
+    "cleaned_poem": "Lumiere verte et bleue, Energie des vents, Dans les fils, elle court, Pour un futur sans vent.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 09:02:49",
+    "original_poem": "Énergie douce,\nSoleil qui s'allume,\nCourants verts, silence,\nÉcologie avance,\nLumière, avenir lumineux.",
+    "cleaned_poem": "Energie douce, Soleil qui s´allume, Courants verts, silence, Ecologie avance, Lumiere, avenir lumineux.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-05-28 09:03:50",
+    "original_poem": "Dans les fils, l'onde voyage,\nLumière douce, énergie sage.\nVertes sources, avenir sage,\nÉclaire-nous, guide-nous.\nLa planète en paix repose.",
+    "cleaned_poem": "Dans les fils, l´onde voyage, Lumiere douce, energie sage. Vertes sources, avenir sage, Eclaire-nous, guide-nous. La planete en paix repose.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:43:31",
+    "original_poem": "Dans le silence des fils,\nÉnergie pure, sans bruit,\nLumière verte, avenir,\nÉcologique et serein,\nUn monde neuf, sans souci.",
+    "cleaned_poem": "Dans le silence des fils, Energie pure, sans bruit, Lumiere verte, avenir, Ecologique et serein, Un monde neuf, sans souci.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:44:32",
+    "original_poem": "Énergie pure,\nCourants dans l'air,\nLumière douce,\nNature sans peur,\nAvenir clair.",
+    "cleaned_poem": "Energie pure, Courants dans l´air, Lumiere douce, Nature sans peur, Avenir clair.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:45:33",
+    "original_poem": "Énergie douce, Isabelle la guide,\nLumière verte, avenir qui brille,\nChaque geste, une onde de vie,\nEnsemble, un monde à réinventer,\nÉlectricité, cœur qui bat.",
+    "cleaned_poem": "ENERGIE DOUCE, ISABELLE LA GUIDE, LUMIERE VERTE, AVENIR QUI BRILLE, CHAQUE GESTE, UNE ONDE DE VIE, ENSEMBLE, UN MONDE A REINVENTER, ELECTRICITE, COEUR QUI BAT.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-06 10:46:34",
+    "original_poem": "Dans les fils d'argent,\nL'énergie voyage,\nVertes sources chantent,\nLumière sans ombrage,\nAvenir, doux passage.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie voyage, Vertes sources chantent, Lumiere sans ombrage, Avenir, doux passage.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:47:36",
+    "original_poem": "Dans l'ombre des soleils\nDes vents et des rivières,\nL'électricité\nFait battre nos cœurs\nRéveille les lumières.",
+    "cleaned_poem": "Dans l´ombre des soleils, Des vents et des rivieres, L´electricite, Fait battre nos coeurs, Reveille les lumieres.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:48:37",
+    "original_poem": "Lumière qui danse,\nÉnergie en silence,\nVertes vagues courent,\nCœur de la planète,\nAvenir en éclosion.",
+    "cleaned_poem": "Lumiere qui danse, Energie en silence, Vertes vagues courent, Coeur de la planete, Avenir en eclosion.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:49:37",
+    "original_poem": "Dans le vent des pales,\nL'énergie s'éveille,\nSilencieuse et propre,\nLa nature respire,\nUn futur qui s'éveille.",
+    "cleaned_poem": "Dans le vent des pales, L´energie s´eveille, Silencieuse et propre, La nature respire, Un futur qui s´eveille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:50:38",
+    "original_poem": "Dans les fils d'argent,\nL'énergie s'éveille,\nVertes vagues de lumière,\nPour un monde sans fumée,\nL'avenir est électrique.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´eveille, Vertes vagues de lumiere, Pour un monde sans fumee, L´avenir est electrique.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:51:40",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité s'ensoleille,\nVertes vagues, énergie,\nLumière douce, avenir,\nChaque jour, un pas vers l'infini.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite s´ensoleille, Vertes vagues, energie, Lumiere douce, avenir, Chaque jour, un pas vers l´infini.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:52:41",
+    "original_poem": "Lumière qui danse,\nÉnergie qui chante,\nTerre en harmonie,\nÉcologie,\nÉlectricité.",
+    "cleaned_poem": "Lumiere qui danse, Energie qui chante, Terre en harmonie, Ecologie, Electricite.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:53:43",
+    "original_poem": "Dans le silence des fils,\nL'électricité s'éveille,\nÉclaire nos vies, nos cœurs,\nDe l'ombre à la lumière,\nL'énergie nous relie.",
+    "cleaned_poem": "Dans le silence des fils, L´electricite s´eveille, Eclaire nos vies, nos coeurs, De l´ombre a la lumiere, L´energie nous relie.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:54:44",
+    "original_poem": "Énergie pure et lumière\nDans un monde sans fumée\nLes vents, les mers, le soleil\nEnsemble, un avenir réel\nPour une Terre en harmonie.",
+    "cleaned_poem": "Energie pure et lumiere, Dans un monde sans fumee, Les vents, les mers, le soleil, Ensemble, un avenir reel, Pour une Terre en harmonie.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:55:45",
+    "original_poem": "Loy's lumière éclaire,\nÉnergie verte, avenir,\nVive l'électricité,\nLumière de demain,\nLoys, la voie à suivre.",
+    "cleaned_poem": "LOY´S LUMIERE ECLAIRE, ENERGIE VERTE, AVENIR, VIVE L´ELECTRICITE, LUMIERE DE DEMAIN, LOYS, LA VOIE A SUIVRE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-06 10:56:46",
+    "original_poem": "Dans le vent des éoliennes,\nL'énergie sereine,\nLumière douce, sans fumée,\nLa nature en harmonie,\nUn avenir à construire.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´energie sereine, Lumiere douce, sans fumee, La nature en harmonie, Un avenir a construire.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:57:47",
+    "original_poem": "Lumière dans la nuit,\nÉnergie sans bruit,\nVertes vagues, doux murmure,\nÉcologie en allure,\nL'avenir est électrique.",
+    "cleaned_poem": "Lumiere dans la nuit, Energie sans bruit, Vertes vagues, doux murmure, Ecologie en allure, L´avenir est electrique.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:58:48",
+    "original_poem": "Dans l'ombre des panneaux solaires,\nL'énergie verte s'étale,\nUn futur sans carbone,\nLes vents tournent, l'eau coule,\nLa planète respire enfin.",
+    "cleaned_poem": "Dans l´ombre des panneaux solaires, L´energie verte s´etale, Un futur sans carbone, Les vents tournent, l´eau coule, La planete respire enfin.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 10:59:49",
+    "original_poem": "Dans le vent des turbines,\nL'énergie s'éveille,\nUn souffle vert et pur,\nPour un monde à refaire,\nL'électricité veille.",
+    "cleaned_poem": "Dans le vent des turbines, L´energie s´eveille, Un souffle vert et pur, Pour un monde a refaire, L´electricite veille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:00:50",
+    "original_poem": "Dans le vent des éoliennes\nL'énergie s'envole\nLumière verte et silencieuse\nUn avenir sans carbone\nLe futur se dessine.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´energie s´envole, Lumiere verte et silencieuse, Un avenir sans carbone, Le futur se dessine.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:01:51",
+    "original_poem": "Dans le silence des fils,\nL'électricité s'éveille,\nÉclaire, réchauffe les cœurs,\nÉnergie douce et fidèle.",
+    "cleaned_poem": "Dans le silence des fils, L´electricite s´eveille, Eclaire, rechauffe les coeurs, Energie douce et fidele.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:02:52",
+    "original_poem": "Dans le vent des pales\nL'énergie se fait douce\nLe soleil se lève\nEt la nature s'illumine\nPar l'électricité.",
+    "cleaned_poem": "Dans le vent des pales, L´energie se fait douce, Le soleil se leve, Et la nature s´illumine, Par l´electricite.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:03:53",
+    "original_poem": "Dans le vent des pales,\nL'énergie s'éveille,\nVert et bleu s'entrelacent,\nLa Terre respire enfin.",
+    "cleaned_poem": "Dans le vent des pales, L´energie s´eveille, Vert et bleu s´entrelacent, La Terre respire enfin.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:04:54",
+    "original_poem": "Dans les fils électriques,\nL'énergie voyage,\nVert et pur, elle s'allie,\nPour un futur sans nuages.",
+    "cleaned_poem": "Dans les fils electriques, L´energie voyage, Vert et pur, elle s´allie, Pour un futur sans nuages.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:05:55",
+    "original_poem": "Énergie pure, lumière vive,\nDans les fils, la force s'éveille.\nVert et bleu, l'avenir s'élève,\nPour un monde où tout respire,\nL'électricité, douce et vive.",
+    "cleaned_poem": "Energie pure, lumiere vive, Dans les fils, la force s´eveille. Vert et bleu, l´avenir s´eleve, Pour un monde ou tout respire, L´electricite, douce et vive.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:06:56",
+    "original_poem": "Énergie qui danse,\nDans les fils qui s'entrelacent,\nLumière douce et pure,\nNature qui respire,\nAvenir sans fureur.",
+    "cleaned_poem": "Energie qui danse, Dans les fils qui s´entrelacent, Lumiere douce et pure, Nature qui respire, Avenir sans fureur.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:07:57",
+    "original_poem": "Lumière des fils\nDans la nuit, elle brille\nÉnergie sans bruit\nPour un futur sans nuits\nVert et durable, elle vit.",
+    "cleaned_poem": "Lumiere des fils, Dans la nuit, elle brille, Energie sans bruit, Pour un futur sans nuits, Vert et durable, elle vit.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:08:58",
+    "original_poem": "Dans les fils d'argent,\nL'énergie danse,\nÉclaire nos chemins,\nVert et lumineux,\nL'avenir s'avance.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie danse, Eclaire nos chemins, Vert et lumineux, L´avenir s´avance.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:09:59",
+    "original_poem": "Dans les fils de Guef, l'électricité s'écoule,\nÉnergie douce, lumière qui s'enroule.\nVert et bleu, un futur se dessine,\nLumière et chaleur, sans fumée ni peine,\nLa nature sourit, l'innovation en ligne.",
+    "cleaned_poem": "DANS LES FILS DE GUEF, L´ELECTRICITE S´ECOULE, ENERGIE DOUCE, LUMIERE QUI S´ENROULE. VERT ET BLEU, UN FUTUR SE DESSINE, LUMIERE ET CHALEUR, SANS FUMEE NI PEINE, LA NATURE SOURIT, L´INNOVATION EN LIGNE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-06 11:11:00",
+    "original_poem": "Dans les fils électriques,\nL'énergie voyage,\nÉclaire nos chemins,\nSans bruit, sans fumée.\nL'avenir s'allume.",
+    "cleaned_poem": "Dans les fils electriques, L´energie voyage, Eclaire nos chemins, Sans bruit, sans fumee. L´avenir s´allume.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:12:02",
+    "original_poem": "Énergie douce, cours dans mes veines,\nLumière verte, illumine mes rêves.\nTerre aimée, ensemble nous rêvons,\nUn avenir où tout est possible,\nÉlectrique, nous dansons.",
+    "cleaned_poem": "Energie douce, cours dans mes veines, Lumiere verte, illumine mes reves. Terre aimee, ensemble nous revons, Un avenir ou tout est possible, Electrique, nous dansons.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:13:03",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité s'envole,\nLumière verte et silencieuse,\nL'avenir s'ouvre, sans fumée.\nProgrès en marche, doux et fort.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite s´envole, Lumiere verte et silencieuse, L´avenir s´ouvre, sans fumee. Progres en marche, doux et fort.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:14:05",
+    "original_poem": "Dans les fils, l'énergie danse,\nÉclaire nos vies, sans entrave.\nVertes sources, avenir en transe,\nÉcologie, bien-être, nous rêvons,\nÉlectrique, futur, nous avançons.",
+    "cleaned_poem": "Dans les fils, l´energie danse, Eclaire nos vies, sans entrave. Vertes sources, avenir en transe, Ecologie, bien-etre, nous revons, Electrique, futur, nous avancons.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:15:06",
+    "original_poem": "Dans le vent, les pales tournent,\nÉnergie pure, sans fumée,\nLa nature, notre alliée,\nPour un futur, lumineux et serein,\nLe progrès, sans fin, sans peine.",
+    "cleaned_poem": "Dans le vent, les pales tournent, Energie pure, sans fumee, La nature, notre alliee, Pour un futur, lumineux et serein, Le progres, sans fin, sans peine.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:16:07",
+    "original_poem": "Dans le vent des panneaux solaires,\nL'énergie s'envole et se pare\nDe vert, pour un monde plus serein,\nL'électricité, reine du matin.",
+    "cleaned_poem": "Dans le vent des panneaux solaires, L´energie s´envole et se pare, De vert, pour un monde plus serein, L´electricite, reine du matin.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:17:08",
+    "original_poem": "Dans le courant de la vie,\nL'électricité nous guide,\nÉclaire nos chemins,\nVers un avenir sans fin.",
+    "cleaned_poem": "Dans le courant de la vie, L´electricite nous guide, Eclaire nos chemins, Vers un avenir sans fin.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:18:09",
+    "original_poem": "Dans les bras de Darsana\nL'électricité danse,\nÉclaire les cœurs, les âmes,\nPour un monde en avance\nVers un avenir sans trame.",
+    "cleaned_poem": "DANS LES BRAS DE DARSANA, L´ELECTRICITE DANSE, ECLAIRE LES COEURS, LES AMES, POUR UN MONDE EN AVANCE, VERS UN AVENIR SANS TRAME.",
+    "effect": "Matrix"
+  },
+  {
+    "timestamp": "2025-06-06 11:19:10",
+    "original_poem": "Dans le flux des atomes,\nL'électricité s'envole,\nÉclaire nos chemins,\nSans fumée ni fumée,\nL'innovation brille.",
+    "cleaned_poem": "Dans le flux des atomes, L´electricite s´envole, Eclaire nos chemins, Sans fumee ni fumee, L´innovation brille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:20:12",
+    "original_poem": "Dans la Galaxie lumineuse,\nL'énergie danse et s'éveille,\nL'avenir se dessine, radieux,\nÉcologie et progrès s'y mêlent,\nInnovation, notre étoile.",
+    "cleaned_poem": "Dans la Galaxie lumineuse, L´energie danse et s´eveille, L´avenir se dessine, radieux, Ecologie et progres s´y melent, Innovation, notre etoile.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:21:14",
+    "original_poem": "Dans les fils, l'énergie danse,\nÉclaire, chauffe, sans un bruit.\nVert, propre, l'avenir avance,\nLumière douce, avenir serein.\n\nL'électricité, cœur battant,\nDe la planète, elle est l'essence.\nInnovons, préservons, avançons,\nPour un monde, en harmonie.",
+    "cleaned_poem": "Dans les fils, l´energie danse, Eclaire, chauffe, sans un bruit. Vert, propre, l´avenir avance, Lumiere douce, avenir serein. , L´electricite, coeur battant, De la planete, elle est l´essence. Innovons, preservons, avancons, Pour un monde, en harmonie.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:22:15",
+    "original_poem": "Énergie des cœurs,\nJudith en est l'âme,\nLumière et douceur,\nPour un futur sans blâme,\nVert et pur, c'est son rêve.",
+    "cleaned_poem": "ENERGIE DES COEURS, JUDITH EN EST L´AME, LUMIERE ET DOUCEUR, POUR UN FUTUR SANS BLAME, VERT ET PUR, C´EST SON REVE.",
+    "effect": "Matrix"
+  },
+  {
+    "timestamp": "2025-06-06 11:23:16",
+    "original_poem": "Dans le silence des nuits,\nLumière verte et douce,\nL'énergie qui bruisse,\nUn avenir sans fausses notes.",
+    "cleaned_poem": "Dans le silence des nuits, Lumiere verte et douce, L´energie qui bruisse, Un avenir sans fausses notes.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:24:17",
+    "original_poem": "Dans les fils d'argent\nl'énergie se glisse,\nElle danse et s'enivre\nDe chaque instant qu'elle brise.",
+    "cleaned_poem": "Dans les fils d´argent, l´energie se glisse, Elle danse et s´enivre, De chaque instant qu´elle brise.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:25:18",
+    "original_poem": "Dans le jardin de l'âme,\nJudith danse avec l'âme.\nL'électricité verte,\nUne étincelle de vie,\nPour un avenir serein.",
+    "cleaned_poem": "DANS LE JARDIN DE L´AME, JUDITH DANSE AVEC L´AME. L´ELECTRICITE VERTE, UNE ETINCELLE DE VIE, POUR UN AVENIR SEREIN.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-06 11:26:19",
+    "original_poem": "Dans le silence des fils,\nL'énergie s'éveille,\nUn souffle vert, un rêve réel,\nLumière douce, avenir,\nL'électricité, notre soleil.",
+    "cleaned_poem": "Dans le silence des fils, L´energie s´eveille, Un souffle vert, un reve reel, Lumiere douce, avenir, L´electricite, notre soleil.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:27:20",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité s'envole,\nLumière douce et bienveillante,\nPour un monde sans pollution,\nL'avenir est notre étoile.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite s´envole, Lumiere douce et bienveillante, Pour un monde sans pollution, L´avenir est notre etoile.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:28:22",
+    "original_poem": "Les fils d'argent sillonnent la ville,\nÉnergie douce, lumière tranquille,\nDans chaque foyer, un cœur qui bat,\nL'électricité, notre étoile, éclate.",
+    "cleaned_poem": "Les fils d´argent sillonnent la ville, Energie douce, lumiere tranquille, Dans chaque foyer, un coeur qui bat, L´electricite, notre etoile, eclate.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:29:23",
+    "original_poem": "Énergie verte,\nCourant doux,\nParcours sans faute,\nNature et nous,\nÉclaire nos cœurs.",
+    "cleaned_poem": "Energie verte, Courant doux, Parcours sans faute, Nature et nous, Eclaire nos coeurs.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:30:24",
+    "original_poem": "Dans les champs où l’éolienne danse,\nIsabelle veille sur l’énergie,\nLumière verte, avenir en avance,\nPour un monde où le futur est serein,\nL'électricité, douce et pure, avance.",
+    "cleaned_poem": "DANS LES CHAMPS OU LEOLIENNE DANSE, ISABELLE VEILLE SUR LENERGIE, LUMIERE VERTE, AVENIR EN AVANCE, POUR UN MONDE OU LE FUTUR EST SEREIN, L´ELECTRICITE, DOUCE ET PURE, AVANCE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-06 11:31:25",
+    "original_poem": "Lumière douce des panneaux,\nÉnergie verte, avenir serein,\nNature et progrès s'entrelacent,\nUn monde neuf, sans fumée noire,\nL'électricité, cœur battant.",
+    "cleaned_poem": "Lumiere douce des panneaux, Energie verte, avenir serein, Nature et progres s´entrelacent, Un monde neuf, sans fumee noire, L´electricite, coeur battant.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:32:26",
+    "original_poem": "Dans le silence des câbles,\nL'électricité murmure,\nÉnergie douce et subtile,\nElle éclaire, elle murmure,\nUn avenir sans carbone.",
+    "cleaned_poem": "Dans le silence des cables, L´electricite murmure, Energie douce et subtile, Elle eclaire, elle murmure, Un avenir sans carbone.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:33:27",
+    "original_poem": "Dans les fils électriques,\nL'énergie court, légère,\nLumière douce, chaleur,\nPour un avenir sans peur,\nÉcologie, notre affaire.",
+    "cleaned_poem": "Dans les fils electriques, L´energie court, legere, Lumiere douce, chaleur, Pour un avenir sans peur, Ecologie, notre affaire.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:34:28",
+    "original_poem": "Dans les veines de la Terre,\nL'électricité coule,\nÉclaire nos chemins,\nVers un avenir plus beau,\nNature et progrès s'unissent.",
+    "cleaned_poem": "Dans les veines de la Terre, L´electricite coule, Eclaire nos chemins, Vers un avenir plus beau, Nature et progres s´unissent.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:35:29",
+    "original_poem": "Dans le vent des panneaux solaires,\nL'énergie verte se déploie,\nLa Terre respire, les cœurs s'éclairent,\nUn futur lumineux nous appelle.",
+    "cleaned_poem": "Dans le vent des panneaux solaires, L´energie verte se deploie, La Terre respire, les coeurs s´eclairent, Un futur lumineux nous appelle.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:36:30",
+    "original_poem": "Dans les fils, Tef danse,\nÉnergie pure, sans trame,\nVert et bleu, elle avance,\nLumière douce, elle rame,\nPour un futur sans flamme.",
+    "cleaned_poem": "DANS LES FILS, TEF DANSE, ENERGIE PURE, SANS TRAME, VERT ET BLEU, ELLE AVANCE, LUMIERE DOUCE, ELLE RAME, POUR UN FUTUR SANS FLAMME.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-06 11:37:31",
+    "original_poem": "Dans le vent des turbines,\nL'électricité danse,\nÉnergie pure, sans fumée,\nPour un monde en harmonie,\nLumière verte, avenir.",
+    "cleaned_poem": "Dans le vent des turbines, L´electricite danse, Energie pure, sans fumee, Pour un monde en harmonie, Lumiere verte, avenir.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:38:32",
+    "original_poem": "Dans le vent\nDarsana danse\nÉnergie fluide\nLumière et silence\nUn futur en avance",
+    "cleaned_poem": "DANS LE VENT, DARSANA DANSE, ENERGIE FLUIDE, LUMIERE ET SILENCE, UN FUTUR EN AVANCE",
+    "effect": "Plasma"
+  },
+  {
+    "timestamp": "2025-06-06 11:39:34",
+    "original_poem": "Dans les fils, l'électricité danse,\nÉclaire nos vies, sans trêve ni pause.\nVertueuse, elle nous enlace,\nPour un avenir, doux et serein.\nL'énergie verte, notre bien.",
+    "cleaned_poem": "Dans les fils, l´electricite danse, Eclaire nos vies, sans treve ni pause. Vertueuse, elle nous enlace, Pour un avenir, doux et serein. L´energie verte, notre bien.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:40:35",
+    "original_poem": "Dans les veines de la terre,\nL'électricité coule,\nÉclaire nos vies sans fin,\nÉnergie pure et douce,\nPour un avenir sans fin.",
+    "cleaned_poem": "Dans les veines de la terre, L´electricite coule, Eclaire nos vies sans fin, Energie pure et douce, Pour un avenir sans fin.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:41:36",
+    "original_poem": "Dans les fils d'argent,\nL'électricité danse,\nÉclaire nos chemins,\nÉnergie sans trame,\nUn avenir en balance.",
+    "cleaned_poem": "Dans les fils d´argent, L´electricite danse, Eclaire nos chemins, Energie sans trame, Un avenir en balance.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-06 11:42:37",
+    "original_poem": "Énergie douce,\nCourant fluide,\nSolutions vertes,\nUn futur serein,\nTerre épanouie.",
+    "cleaned_poem": "Energie douce, Courant fluide, Solutions vertes, Un futur serein, Terre epanouie.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:28:25",
+    "original_poem": "Dans le silence des fils,\nL'électricité s'éveille,\nÉclaire nos vies,\nSans bruit, sans fureur,\nUn futur vert se dévoile.",
+    "cleaned_poem": "Dans le silence des fils, L´electricite s´eveille, Eclaire nos vies, Sans bruit, sans fureur, Un futur vert se devoile.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:29:27",
+    "original_poem": "Dans le vent des turbines,\nL'électricité s'envole,\nÉnergie douce et pure,\nÀ chaque instant, elle vole,\nPour un monde sans fumée.",
+    "cleaned_poem": "Dans le vent des turbines, L´electricite s´envole, Energie douce et pure, A chaque instant, elle vole, Pour un monde sans fumee.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:30:30",
+    "original_poem": "Dans les fils électriques,\nL'énergie voyage,\nPour éclairer nos vies,\nSans fumée ni rage.",
+    "cleaned_poem": "Dans les fils electriques, L´energie voyage, Pour eclairer nos vies, Sans fumee ni rage.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:32:38",
+    "original_poem": "Judith, étoile du matin,\nLumière verte, avenir,\nÉnergie pure et sereine,\nElle éclaire, elle nous guide,\nVers un monde sans fumée.",
+    "cleaned_poem": "JUDITH, ETOILE DU MATIN, LUMIERE VERTE, AVENIR, ENERGIE PURE ET SEREINE, ELLE ECLAIRE, ELLE NOUS GUIDE, VERS UN MONDE SANS FUMEE.",
+    "effect": "Plasma"
+  },
+  {
+    "timestamp": "2025-06-10 13:33:40",
+    "original_poem": "Dans les fils d'argent,\nL'énergie s'écoule,\nLumière et chaleur,\nPour un monde plus doux.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´ecoule, Lumiere et chaleur, Pour un monde plus doux.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:34:43",
+    "original_poem": "Énergie pure,\nLoys dans la nature,\nRêve d'un futur,\nÉcologique et vert,\nLumière sans fin.",
+    "cleaned_poem": "ENERGIE PURE, LOYS DANS LA NATURE, REVE D´UN FUTUR, ECOLOGIQUE ET VERT, LUMIERE SANS FIN.",
+    "effect": "Plasma"
+  },
+  {
+    "timestamp": "2025-06-10 13:35:45",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité s'envole,\nÉnergie propre et sereine,\nUn avenir sans carbone,\nLa nature en éveille.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite s´envole, Energie propre et sereine, Un avenir sans carbone, La nature en eveille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:36:50",
+    "original_poem": "Dans les bras de Darsana,\nL'électricité danse et brille,\nÉnergie pure et lumière,\nPour un monde vert et tranquille,\nL'avenir s'illumine.",
+    "cleaned_poem": "DANS LES BRAS DE DARSANA, L´ELECTRICITE DANSE ET BRILLE, ENERGIE PURE ET LUMIERE, POUR UN MONDE VERT ET TRANQUILLE, L´AVENIR S´ILLUMINE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-10 13:37:56",
+    "original_poem": "Dans le vent, les éoliennes dansent,\nGuef, l'ami de l'air pur et des champs,\nL'énergie verte, un doux chant,\nPour un avenir sans fumée,\nLa planète respire enfin.",
+    "cleaned_poem": "DANS LE VENT, LES EOLIENNES DANSENT, GUEF, L´AMI DE L´AIR PUR ET DES CHAMPS, L´ENERGIE VERTE, UN DOUX CHANT, POUR UN AVENIR SANS FUMEE, LA PLANETE RESPIRE ENFIN.",
+    "effect": "Plasma"
+  },
+  {
+    "timestamp": "2025-06-10 13:39:00",
+    "original_poem": "Dans les fils d'argent,\nL'énergie s'éveille,\nVertueuse et sage,\nPour un monde plus beau,\nLumière sans faille.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´eveille, Vertueuse et sage, Pour un monde plus beau, Lumiere sans faille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:40:03",
+    "original_poem": "Dans le vent qui souffle,\nJudith danse avec l'onde.\nL'électricité douce,\nDes étoiles sur le monde.\nÉnergie sans fin.",
+    "cleaned_poem": "DANS LE VENT QUI SOUFFLE, JUDITH DANSE AVEC L´ONDE. L´ELECTRICITE DOUCE, DES ETOILES SUR LE MONDE. ENERGIE SANS FIN.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-10 13:41:05",
+    "original_poem": "Dans les fils du vent,\nL'électricité danse,\nÉclaire nos chemins,\nPour un avenir sans trace.",
+    "cleaned_poem": "Dans les fils du vent, L´electricite danse, Eclaire nos chemins, Pour un avenir sans trace.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:42:08",
+    "original_poem": "Loys dans la nuit,\nÉnergie qui brille,\nVertes lumières,\nÉclaire nos cités,\nPour un futur sans bile.",
+    "cleaned_poem": "LOYS DANS LA NUIT, ENERGIE QUI BRILLE, VERTES LUMIERES, ECLAIRE NOS CITES, POUR UN FUTUR SANS BILE.",
+    "effect": "Plasma"
+  },
+  {
+    "timestamp": "2025-06-10 13:43:11",
+    "original_poem": "Énergie des vents,\nLumière des soleils,\nLes courants du futur,\nDans nos mains, le monde,\nUn avenir sans fiel.",
+    "cleaned_poem": "Energie des vents, Lumiere des soleils, Les courants du futur, Dans nos mains, le monde, Un avenir sans fiel.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:44:15",
+    "original_poem": "Dans les fils de l'aube,\nL'électricité danse,\nÉveille les cœurs,\nEn silence, elle avance,\nVers un monde en balance.",
+    "cleaned_poem": "Dans les fils de l´aube, L´electricite danse, Eveille les coeurs, En silence, elle avance, Vers un monde en balance.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:45:25",
+    "original_poem": "Dans le vent des turbines\nL'énergie se danse\nÉcologiquement\nL'avenir se balance\nAvec la lumière.",
+    "cleaned_poem": "Dans le vent des turbines, L´energie se danse, Ecologiquement, L´avenir se balance, Avec la lumiere.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:46:18",
+    "original_poem": "Dans les fils d'argent\nL'énergie s'éveille,\nVertueuse et douce,\nRévèle un avenir,\nOù la Terre respire.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´eveille, Vertueuse et douce, Revele un avenir, Ou la Terre respire.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:47:35",
+    "original_poem": "Énergie pure,\nCourant qui murmure,\nLumière douce,\nDans la nuit nous pousse,\nVers un futur vert et pur.",
+    "cleaned_poem": "Energie pure, Courant qui murmure, Lumiere douce, Dans la nuit nous pousse, Vers un futur vert et pur.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:48:57",
+    "original_poem": "Lumière verte, énergie pure,\nLes vents soufflent, les soleils lurent.\nLa planète respire enfin,\nDans les fils, l'espoir s'insinue.\nUn monde neuf, sans fumée.",
+    "cleaned_poem": "Lumiere verte, energie pure, Les vents soufflent, les soleils lurent. La planete respire enfin, Dans les fils, l´espoir s´insinue. Un monde neuf, sans fumee.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 13:57:11",
+    "original_poem": "Dans les veines de la Terre,\nL'électricité coule,\nÉnergie verte et pure,\nUn avenir sans foudre,\nPour un monde en harmonie.",
+    "cleaned_poem": "Dans les veines de la Terre, L´electricite coule, Energie verte et pure, Un avenir sans foudre, Pour un monde en harmonie.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:00:43",
+    "original_poem": "Lumière des villes,\nÉnergie des rêves,\nNature et progrès,\nDans un même élan,\nUn avenir s'élève.",
+    "cleaned_poem": "Lumiere des villes, Energie des reves, Nature et progres, Dans un meme elan, Un avenir s´eleve.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:01:44",
+    "original_poem": "Dans le vent des turbines,\nL'électricité danse,\nÉclaire nos chemins,\nSans fumée ni flamme,\nL'avenir s'avance.",
+    "cleaned_poem": "Dans le vent des turbines, L´electricite danse, Eclaire nos chemins, Sans fumee ni flamme, L´avenir s´avance.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:03:50",
+    "original_poem": "Tef, étoile du matin,\nLumière verte et dorée,\nDans l'ombre, nous guidons,\nVers un futur éclairé.",
+    "cleaned_poem": "TEF, ETOILE DU MATIN, LUMIERE VERTE ET DOREE, DANS L´OMBRE, NOUS GUIDONS, VERS UN FUTUR ECLAIRE.",
+    "effect": "Matrix"
+  },
+  {
+    "timestamp": "2025-06-10 14:06:14",
+    "original_poem": "Électrons dansent,\nSur les fils de l'air,\nÉnergie pure,\nTerre en paix respire,\nLumière sans fin.",
+    "cleaned_poem": "Electrons dansent, Sur les fils de l´air, Energie pure, Terre en paix respire, Lumiere sans fin.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:07:08",
+    "original_poem": "Énergie pure,\nÉcoulant sans heurts,\nDes courants doux,\nPour un monde neuf,\nÉlectrique et vert.",
+    "cleaned_poem": "Energie pure, Ecoulant sans heurts, Des courants doux, Pour un monde neuf, Electrique et vert.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:08:10",
+    "original_poem": "Dans les fils d'argent, la lumière danse,\nÉnergie douce, en silence avance,\nVert et bleu, l'avenir s'éveille,\nTerre et ciel, en harmonie veille,\nPour demain, un monde sans trace.",
+    "cleaned_poem": "Dans les fils d´argent, la lumiere danse, Energie douce, en silence avance, Vert et bleu, l´avenir s´eveille, Terre et ciel, en harmonie veille, Pour demain, un monde sans trace.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:08:24",
+    "original_poem": "Dans la galaxie,\nLumière et savoir,\nÉnergie pure,\nUn avenir à voir,\nInnovation sûre.",
+    "cleaned_poem": "Dans la galaxie, Lumiere et savoir, Energie pure, Un avenir a voir, Innovation sure.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:09:31",
+    "original_poem": "Énergie douce,\nDans les fils, elle glisse,\nLumière et chaleur,\nUn avenir s'éveille,\nVert et paisible.",
+    "cleaned_poem": "Energie douce, Dans les fils, elle glisse, Lumiere et chaleur, Un avenir s´eveille, Vert et paisible.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:09:54",
+    "original_poem": "Dans le chant des vents, Judith danse,\nÉnergie pure, électricité avance.\nVert et bleu, la terre respire,\nL'avenir s'écrit, lumière s'inspire.",
+    "cleaned_poem": "DANS LE CHANT DES VENTS, JUDITH DANSE, ENERGIE PURE, ELECTRICITE AVANCE. VERT ET BLEU, LA TERRE RESPIRE, L´AVENIR S´ECRIT, LUMIERE S´INSPIRE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-10 14:11:21",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité s'éveille,\nÉnergie douce et sereine,\nPour un futur sans faille.\n\nSolaire, verte, et fluide,\nLumière dans l'ombre grise,\nUn monde en transition guide,\nVers un avenir radieux.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite s´eveille, Energie douce et sereine, Pour un futur sans faille. , Solaire, verte, et fluide, Lumiere dans l´ombre grise, Un monde en transition guide, Vers un avenir radieux.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:12:22",
+    "original_poem": "Dans les fils d'argent,\nL'électricité danse,\nVertueuse et légère,\nElle illumine nos vies,\nSans fumée, sans flamme.",
+    "cleaned_poem": "Dans les fils d´argent, L´electricite danse, Vertueuse et legere, Elle illumine nos vies, Sans fumee, sans flamme.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:13:03",
+    "original_poem": "Dans les champs verts, Isabelle danse,\nL'énergie du vent, elle enlace.\nÉlectrons libres, cours, éclaire,\nUn avenir vert, elle espère.\nLumière pure, sans fumée.",
+    "cleaned_poem": "DANS LES CHAMPS VERTS, ISABELLE DANSE, L´ENERGIE DU VENT, ELLE ENLACE. ELECTRONS LIBRES, COURS, ECLAIRE, UN AVENIR VERT, ELLE ESPERE. LUMIERE PURE, SANS FUMEE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-10 14:14:05",
+    "original_poem": "Dans les fils d'argent\nL'énergie s'écoule,\nVertueux courant\nQui fait tourner le monde,\nLumière dans la nuit.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´ecoule, Vertueux courant, Qui fait tourner le monde, Lumiere dans la nuit.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:15:14",
+    "original_poem": "Dans les fils d'argent,\nL'énergie s'éveille,\nVertes sources brillent,\nLa Terre se réveille.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´eveille, Vertes sources brillent, La Terre se reveille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:16:16",
+    "original_poem": "Énergie douce,\nDans les fils qui chantent,\nLumière qui danse,\nUn avenir en silence,\nVert et lumineux.",
+    "cleaned_poem": "Energie douce, Dans les fils qui chantent, Lumiere qui danse, Un avenir en silence, Vert et lumineux.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:16:44",
+    "original_poem": "Dans les fils d'argent,\nL'énergie voyage,\nSilence et puissance,\nClarté sans naufrage,\nLumière, avenir sage.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie voyage, Silence et puissance, Clarte sans naufrage, Lumiere, avenir sage.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:17:47",
+    "original_poem": "Dans les fils, l’électricité danse,\nÉclaire nos vies, sans contrainte.\nVertueuses sources, nous avançons,\nVers un futur, sans pollution.",
+    "cleaned_poem": "Dans les fils, lelectricite danse, Eclaire nos vies, sans contrainte. Vertueuses sources, nous avancons, Vers un futur, sans pollution.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:18:49",
+    "original_poem": "Dans les veines de la terre,\nL'électricité danse,\nÉnergie verte, cœur qui bat,\nPour un monde en avance.",
+    "cleaned_poem": "Dans les veines de la terre, L´electricite danse, Energie verte, coeur qui bat, Pour un monde en avance.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:19:50",
+    "original_poem": "Dans le silence de la nuit,\nLes étoiles, lumières d'antan,\nL'électricité, douce nuit,\nÉclaire nos rêves sans fin,\nUn avenir vert, nous l'attend.",
+    "cleaned_poem": "Dans le silence de la nuit, Les etoiles, lumieres d´antan, L´electricite, douce nuit, Eclaire nos reves sans fin, Un avenir vert, nous l´attend.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:20:52",
+    "original_poem": "Dans les circuits du temps,\nÉnergie pure, lumière sans fin,\nL'électricité danse,\nSur les ailes du vent, elle avance,\nPour un monde vert, sans fin.",
+    "cleaned_poem": "Dans les circuits du temps, Energie pure, lumiere sans fin, L´electricite danse, Sur les ailes du vent, elle avance, Pour un monde vert, sans fin.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:21:54",
+    "original_poem": "Dans les veines de la Terre\ncoulent des courants d'avenir\nLumière verte, énergie pure\nChaque jour, un pas en avant\nPour un monde sans pollution",
+    "cleaned_poem": "Dans les veines de la Terre, coulent des courants d´avenir, Lumiere verte, energie pure, Chaque jour, un pas en avant, Pour un monde sans pollution",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:22:59",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité s'envole,\nÉnergie propre, avenir serein,\nLes lumières brillent sans faille,\nLa Terre respire enfin.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite s´envole, Energie propre, avenir serein, Les lumieres brillent sans faille, La Terre respire enfin.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:24:43",
+    "original_poem": "Dans le vent des éoliennes,\nL'énergie se déploie,\nVertueuse et sereine,\nPour un avenir sans loi,\nLumière verte et harmonie.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´energie se deploie, Vertueuse et sereine, Pour un avenir sans loi, Lumiere verte et harmonie.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:26:00",
+    "original_poem": "Dans les veines de la terre,\nL'électricité coule,\nÉclaire nos chemins,\nPour un avenir plus beau.",
+    "cleaned_poem": "Dans les veines de la terre, L´electricite coule, Eclaire nos chemins, Pour un avenir plus beau.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:26:39",
+    "original_poem": "Dans le silence des fils,\nL'électricité s'éveille,\nÉclaire nos chemins,\nPour un monde plus fidèle,\nÀ l'avenir sans fiel.",
+    "cleaned_poem": "Dans le silence des fils, L´electricite s´eveille, Eclaire nos chemins, Pour un monde plus fidele, A l´avenir sans fiel.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:27:15",
+    "original_poem": "Flux d'électricité\nDans les fils, elle s'écoule\nVert, l'avenir s'allume\nPour un monde sans fumée\nLa planète respire.",
+    "cleaned_poem": "Flux d´electricite, Dans les fils, elle s´ecoule, Vert, l´avenir s´allume, Pour un monde sans fumee, La planete respire.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:27:41",
+    "original_poem": "Dans la GALEXIE, lumières dansent,\nÉnergie verte, avenir en chant,\nTechnologies nouvelles, cœur battant,\nInnovation pour un monde en avant.",
+    "cleaned_poem": "Dans la GALEXIE, lumieres dansent, Energie verte, avenir en chant, Technologies nouvelles, coeur battant, Innovation pour un monde en avant.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:28:19",
+    "original_poem": "Les courants d'air\nDans les fils de cuivre\nL'énergie danse\nEt la Terre respire\nSereinement.",
+    "cleaned_poem": "Les courants d´air, Dans les fils de cuivre, L´energie danse, Et la Terre respire, Sereinement.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:28:49",
+    "original_poem": "Dans le vent des turbines,\nL'électricité s'envole,\nÉclaire nos lumières,\nSans fumée ni fatigue,\nL'avenir est électrique.",
+    "cleaned_poem": "Dans le vent des turbines, L´electricite s´envole, Eclaire nos lumieres, Sans fumee ni fatigue, L´avenir est electrique.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:29:20",
+    "original_poem": "Dans les fils d'argent,\nL'énergie s'allume,\nLumière sans fumée,\nVert, l'avenir s'écrit,\nL'électricité nous unit.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´allume, Lumiere sans fumee, Vert, l´avenir s´ecrit, L´electricite nous unit.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:29:30",
+    "original_poem": "Dans les veines de la terre,\nL'électricité coule, sereine,\nÉclaire nos vies, sans mystère,\nUn avenir vert, elle dessine,\nL'énergie pure, notre lumière.",
+    "cleaned_poem": "Dans les veines de la terre, L´electricite coule, sereine, Eclaire nos vies, sans mystere, Un avenir vert, elle dessine, L´energie pure, notre lumiere.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:32:46",
+    "original_poem": "Dans les fils d'argent,\nL'énergie s'éveille,\nVertueuse et sage,\nPour un monde plus beau,\nLumière sans faille.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´eveille, Vertueuse et sage, Pour un monde plus beau, Lumiere sans faille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:34:05",
+    "original_poem": "Dans les fils qui chantent,\nL'énergie s'éveille,\nLumière douce et vivante,\nUn futur qui s'éveille.",
+    "cleaned_poem": "Dans les fils qui chantent, L´energie s´eveille, Lumiere douce et vivante, Un futur qui s´eveille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:34:47",
+    "original_poem": "Dans les fils d'argent,\nGuef s'illumine,\nLumière douce et tendre,\nÉnergie sereine,\nPour un futur sans haine.",
+    "cleaned_poem": "DANS LES FILS D´ARGENT, GUEF S´ILLUMINE, LUMIERE DOUCE ET TENDRE, ENERGIE SEREINE, POUR UN FUTUR SANS HAINE.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-10 14:35:02",
+    "original_poem": "Dans le silence des circuits,\nL'énergie vibre, invisible.\nLumière douce, futur lumineux,\nLa planète respire, apaisée,\nÉlectricité, notre alliée.",
+    "cleaned_poem": "Dans le silence des circuits, L´energie vibre, invisible. Lumiere douce, futur lumineux, La planete respire, apaisee, Electricite, notre alliee.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:35:48",
+    "original_poem": "Énergie douce,\nLumière qui s'allume,\nNature qui sourit,\nUn futur qui brille,\nVert et sans fumée.",
+    "cleaned_poem": "Energie douce, Lumiere qui s´allume, Nature qui sourit, Un futur qui brille, Vert et sans fumee.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:36:26",
+    "original_poem": "Dans le vent des pales,\nL'énergie s'éveille,\nSilence des moteurs,\nLa nature respire,\nUn avenir sans faille.",
+    "cleaned_poem": "Dans le vent des pales, L´energie s´eveille, Silence des moteurs, La nature respire, Un avenir sans faille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:37:33",
+    "original_poem": "Dans le vent des éoliennes,\nL'énergie s'envole et danse,\nÉcologie et progrès,\nL'électricité nous enlace,\nUn avenir sans carbone.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´energie s´envole et danse, Ecologie et progres, L´electricite nous enlace, Un avenir sans carbone.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:38:22",
+    "original_poem": "Énergie fluide,\nDans le vent qui murmure,\nSoleil qui éclaire,\nTerre qui respire,\nLumière future.",
+    "cleaned_poem": "Energie fluide, Dans le vent qui murmure, Soleil qui eclaire, Terre qui respire, Lumiere future.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:38:29",
+    "original_poem": "Dans les fils électriques\nL’énergie voyage\nLe vent, le soleil, la vague\nChantent une douce mélodie\nPour un avenir radieux.",
+    "cleaned_poem": "Dans les fils electriques, Lenergie voyage, Le vent, le soleil, la vague, Chantent une douce melodie, Pour un avenir radieux.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:39:31",
+    "original_poem": "Dans la nuit, les fils d'argent,\nÉclairez le chemin,\nÉnergie douce, sans regret,\nPour un monde enfin serein.",
+    "cleaned_poem": "Dans la nuit, les fils d´argent, Eclairez le chemin, Energie douce, sans regret, Pour un monde enfin serein.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:39:47",
+    "original_poem": "Dans les fils d'argent\nL'énergie s'éveille\nSilencieuse et pure\nElle illumine et veille\nSur un futur sans fiel.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´eveille, Silencieuse et pure, Elle illumine et veille, Sur un futur sans fiel.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:40:21",
+    "original_poem": "Dans le vent des éoliennes,\nL'énergie danse et s'élance,\nÉclaire nos vies, sans peine,\nVert et propre, notre chance.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´energie danse et s´elance, Eclaire nos vies, sans peine, Vert et propre, notre chance.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:53:56",
+    "original_poem": "Énergie douce,\nFlux invisible,\nLumière sans bruit,\nNature paisible,\nAvenir radieux.",
+    "cleaned_poem": "Energie douce, Flux invisible, Lumiere sans bruit, Nature paisible, Avenir radieux.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 14:56:58",
+    "original_poem": "Dans le flux des ondes,\nL'énergie s'éveille,\nÉclaire nos mondes,\nSans bruit ni fumée,\nUn avenir s'éveille.",
+    "cleaned_poem": "Dans le flux des ondes, L´energie s´eveille, Eclaire nos mondes, Sans bruit ni fumee, Un avenir s´eveille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:32:19",
+    "original_poem": "Dans le silence des fils,\nL'électricité s'éveille,\nÉclaire la nuit,\nChauffe nos cœurs,\nEt nos rêves, elle veille.",
+    "cleaned_poem": "Dans le silence des fils, L´electricite s´eveille, Eclaire la nuit, Chauffe nos coeurs, Et nos reves, elle veille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:33:20",
+    "original_poem": "Dans le vent des éoliennes,\nL'énergie s'éveille,\nVertes vagues électriques,\nUn futur se dessine,\nLumière pure et brillante.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´energie s´eveille, Vertes vagues electriques, Un futur se dessine, Lumiere pure et brillante.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:34:21",
+    "original_poem": "Dans les fils, l'électricité danse,\nÉclaire nos vies, en silence.\nVertueuse énergie, sans trame,\nElle nous guide, sans jamais faillir.\nL'avenir est vert, dans nos mains.",
+    "cleaned_poem": "Dans les fils, l´electricite danse, Eclaire nos vies, en silence. Vertueuse energie, sans trame, Elle nous guide, sans jamais faillir. L´avenir est vert, dans nos mains.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:35:23",
+    "original_poem": "Dans le vent des éoliennes,\nL'énergie s'éveille,\nVerte et pure, elle s'envole,\nLa planète respire,\nUn avenir sans faille.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´energie s´eveille, Verte et pure, elle s´envole, La planete respire, Un avenir sans faille.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:35:45",
+    "original_poem": "Dans les fils, l'énergie court,\nÉclaire nos vies, sans effort.\nVert et doux, l'avenir se dessine,\nÉcologie, bien-être en ligne.\nL'électricité, notre étoile.",
+    "cleaned_poem": "Dans les fils, l´energie court, Eclaire nos vies, sans effort. Vert et doux, l´avenir se dessine, Ecologie, bien-etre en ligne. L´electricite, notre etoile.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:36:46",
+    "original_poem": "Lumière des soleils captifs,\nDans les fils, l'énergie s'enlève,\nUn monde vert, sans bruit, sans strife,\nL'électricité, douce rêve.",
+    "cleaned_poem": "Lumiere des soleils captifs, Dans les fils, l´energie s´enleve, Un monde vert, sans bruit, sans strife, L´electricite, douce reve.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:37:47",
+    "original_poem": "Dans les fils de la lumière,\nL'énergie s'écoule,\nSoleil, vent, et rivière,\nUn avenir sans fumée,\nÉcologique et doux.",
+    "cleaned_poem": "Dans les fils de la lumiere, L´energie s´ecoule, Soleil, vent, et riviere, Un avenir sans fumee, Ecologique et doux.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:38:48",
+    "original_poem": "Énergie douce,\nSoleil et vent en chœur,\nÉclaire nos cœurs,\nSans bruit, sans fureur,\nÉcologie en fleur.",
+    "cleaned_poem": "Energie douce, Soleil et vent en choeur, Eclaire nos coeurs, Sans bruit, sans fureur, Ecologie en fleur.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:38:59",
+    "original_poem": "Dans les fils d'argent,\nL'énergie s'éveille,\nVert et pur, elle brille,\nPour un monde à venir,\nLumière dans la nuit.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´eveille, Vert et pur, elle brille, Pour un monde a venir, Lumiere dans la nuit.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:40:00",
+    "original_poem": "Lumière verte, énergie pure,\nGuef, l'étoile qui nous assure,\nÉcologique et sans fureur,\nUn avenir doux et sûr,\nPour la terre, l'âme et le cœur.",
+    "cleaned_poem": "LUMIERE VERTE, ENERGIE PURE, GUEF, L´ETOILE QUI NOUS ASSURE, ECOLOGIQUE ET SANS FUREUR, UN AVENIR DOUX ET SUR, POUR LA TERRE, L´AME ET LE COEUR.",
+    "effect": "Matrix"
+  },
+  {
+    "timestamp": "2025-06-10 15:41:01",
+    "original_poem": "Dans les fils d'argent\nL'énergie s'éveille\nLes cœurs s'allument\nLa planète respire\nL'avenir se dévoile.",
+    "cleaned_poem": "Dans les fils d´argent, L´energie s´eveille, Les coeurs s´allument, La planete respire, L´avenir se devoile.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:41:28",
+    "original_poem": "Dans les fils, l'énergie danse,\nLumière douce, avenir en transe.\nVert et bleu, notre terre chante,\nÉlectricité, source de chance,\nUn monde neuf, sans fumée blanche.",
+    "cleaned_poem": "Dans les fils, l´energie danse, Lumiere douce, avenir en transe. Vert et bleu, notre terre chante, Electricite, source de chance, Un monde neuf, sans fumee blanche.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:42:29",
+    "original_poem": "Lumière verte des panneaux\nDans le vent, l’électricité\nTisse un lien, doux et fort\nPour demain, un ciel plus pur\nL’énergie vibre en silence.",
+    "cleaned_poem": "Lumiere verte des panneaux, Dans le vent, lelectricite, Tisse un lien, doux et fort, Pour demain, un ciel plus pur, Lenergie vibre en silence.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:43:30",
+    "original_poem": "Énergie pure,\nDans chaque fibre,\nLumière sûre,\nNature respire,\nAvenir serein.",
+    "cleaned_poem": "Energie pure, Dans chaque fibre, Lumiere sure, Nature respire, Avenir serein.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:44:32",
+    "original_poem": "Énergie pure,\nÉclaire nos jours,\nProtège la Terre,\nInnovons toujours.",
+    "cleaned_poem": "Energie pure, Eclaire nos jours, Protege la Terre, Innovons toujours.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:45:34",
+    "original_poem": "Dans les fils électriques, l'espoir s'allume,\nÉnergie verte, avenir sans fume.\nLes vents et soleils, en doux murmures,\nChantent la fin des jours obscures.\nL'électricité, douce et pure,\nÉclaire nos rêves, notre future.",
+    "cleaned_poem": "Dans les fils electriques, l´espoir s´allume, Energie verte, avenir sans fume. Les vents et soleils, en doux murmures, Chantent la fin des jours obscures. L´electricite, douce et pure, Eclaire nos reves, notre future.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:46:36",
+    "original_poem": "Les éoliennes dansent\nAu vent qui les caresse\nL'électricité, douce\nÉclaire nos maisons\nSans fumée ni tristesse.",
+    "cleaned_poem": "Les eoliennes dansent, Au vent qui les caresse, L´electricite, douce, Eclaire nos maisons, Sans fumee ni tristesse.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:47:38",
+    "original_poem": "Énergie douce,\nJudith veille,\nLumière verte,\nCœur qui bat,\nTerre en paix.",
+    "cleaned_poem": "ENERGIE DOUCE, JUDITH VEILLE, LUMIERE VERTE, COEUR QUI BAT, TERRE EN PAIX.",
+    "effect": "Ripple"
+  },
+  {
+    "timestamp": "2025-06-10 15:48:12",
+    "original_poem": "Dans le silence des circuits,\nL'énergie se déploie,\nVertueuses étincelles,\nPour un monde en harmonie,\nL'électricité, notre alliée.",
+    "cleaned_poem": "Dans le silence des circuits, L´energie se deploie, Vertueuses etincelles, Pour un monde en harmonie, L´electricite, notre alliee.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:50:22",
+    "original_poem": "Lumière verte et silence,\nÉnergie douce et vivante,\nNature qui danse et chante,\nRêve d'un monde en équilibre,\nÉlectricité, notre avenir.",
+    "cleaned_poem": "Lumiere verte et silence, Energie douce et vivante, Nature qui danse et chante, Reve d´un monde en equilibre, Electricite, notre avenir.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:51:08",
+    "original_poem": "Lumière qui danse,\nÉnergie en balance,\nVert et pur,\nUn futur sûr,\nLa Terre en silence.",
+    "cleaned_poem": "Lumiere qui danse, Energie en balance, Vert et pur, Un futur sur, La Terre en silence.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:56:22",
+    "original_poem": "Lumière des villes\nQui brille sans fin,\nÉnergie douce\nQui nous fait rêver\nÉclaire nos vies.",
+    "cleaned_poem": "Lumiere des villes, Qui brille sans fin, Energie douce, Qui nous fait rever, Eclaire nos vies.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:57:23",
+    "original_poem": "Dans les fils électriques,\nL'énergie voyage,\nSilencieuse et précise,\nElle éclaire notre plage.\nL'avenir est lumineux.",
+    "cleaned_poem": "Dans les fils electriques, L´energie voyage, Silencieuse et precise, Elle eclaire notre plage. L´avenir est lumineux.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 15:58:25",
+    "original_poem": "Lumière verte,\nDarsana brille,\nÉnergie douce,\nNature et ville,\nUn futur s'éveille.",
+    "cleaned_poem": "LUMIERE VERTE, DARSANA BRILLE, ENERGIE DOUCE, NATURE ET VILLE, UN FUTUR S´EVEILLE.",
+    "effect": "Matrix"
+  },
+  {
+    "timestamp": "2025-06-10 15:58:54",
+    "original_poem": "Dans les fils d'argent,\nL'électricité danse,\nÉclaire, réchauffe,\nSans fumée ni flamme,\nL'avenir se dessine.",
+    "cleaned_poem": "Dans les fils d´argent, L´electricite danse, Eclaire, rechauffe, Sans fumee ni flamme, L´avenir se dessine.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 16:04:04",
+    "original_poem": "Dans le vent des panneaux,\nL'énergie se danse,\nSoleil, éoliennes,\nRêve d'un monde en paix,\nÉlectricité, lumière.",
+    "cleaned_poem": "Dans le vent des panneaux, L´energie se danse, Soleil, eoliennes, Reve d´un monde en paix, Electricite, lumiere.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 16:05:05",
+    "original_poem": "Dans le vent des éoliennes,\nL'électricité s'envole,\nDes fils invisibles\nNourrissent les foyers,\nL'avenir est solaire.",
+    "cleaned_poem": "Dans le vent des eoliennes, L´electricite s´envole, Des fils invisibles, Nourrissent les foyers, L´avenir est solaire.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 16:06:04",
+    "original_poem": "Dans l'ombre de Tef, l'énergie dort,\nSous terre, elle veille, discrète et forte.\nLumière douce, chaleur apaisante,\nUn futur vert, sans fumée ni hantise.\nTef, étoile de la nuit, guide nos pas.",
+    "cleaned_poem": "DANS L´OMBRE DE TEF, L´ENERGIE DORT, SOUS TERRE, ELLE VEILLE, DISCRETE ET FORTE. LUMIERE DOUCE, CHALEUR APAISANTE, UN FUTUR VERT, SANS FUMEE NI HANTISE. TEF, ETOILE DE LA NUIT, GUIDE NOS PAS.",
+    "effect": "Plasma"
+  },
+  {
+    "timestamp": "2025-06-10 16:07:05",
+    "original_poem": "ERREUR API MISTRAL",
+    "cleaned_poem": "ERREUR API MISTRAL",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 16:08:42",
+    "original_poem": "Dans le silence des fils,\nL'électricité s'éveille,\nÉclaire nos chemins,\nÉnergie sans faille,\nPour un monde plus vert.",
+    "cleaned_poem": "Dans le silence des fils, L´electricite s´eveille, Eclaire nos chemins, Energie sans faille, Pour un monde plus vert.",
+    "effect": "aucun"
+  },
+  {
+    "timestamp": "2025-06-10 16:09:45",
+    "original_poem": "Dans le flux des atomes,\nL'électricité s'allume,\nÉclaire nos foyers,\nSert nos besoins quotidiens,\nEt préserve nos rives.",
+    "cleaned_poem": "Dans le flux des atomes, L´electricite s´allume, Eclaire nos foyers, Sert nos besoins quotidiens, Et preserve nos rives.",
+    "effect": "aucun"
+  }
+]
