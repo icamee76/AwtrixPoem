@@ -66,6 +66,7 @@ Prérequis :
 Le fonctionnement se fait en deux temps. Il faut d'abord créer et peupler la base de données de poèmes avant de pouvoir les afficher en boucle.
 
 Étape 1 : Générer la collection de poèmes (awtrixPoemMistral.py)
+
 C'est le script à lancer en premier. Il va contacter l'API de Mistral, créer le fichier de poèmes et commencer à le remplir.
 
 - Lancez le script : python awtrixPoemMistral.py
@@ -73,7 +74,9 @@ C'est le script à lancer en premier. Il va contacter l'API de Mistral, créer l
 - Consultez la collection : Vous pouvez suivre la collection via l'interface web accessible sur http://localhost:8080
 
 Étape 2 : Afficher les poèmes de votre collection (awtrixPoem.py)
+
 Une fois que votre fichier poemes.json contient suffisamment de poèmes, vous pouvez utiliser ce second script, plus léger et économique.
+
 Prérequis : Assurez-vous d'avoir déjà exécuté l'étape 1 au moins une fois et que le fichier poemes.json existe.
 
 - Lancez le script : python awtrixPoem.py
