@@ -6,15 +6,21 @@ Il inclut une interface web pour consulter les poèmes passés, et un second scr
 <img width="1024" alt="Ulanzi Awtrix Smart Clock" src="https://github.com/user-attachments/assets/487727da-05c9-4eda-b654-6a94492f4295" />
 
 **Qu'est-ce que l'Ulanzi Awtrix Smart Clock ?**
+
 L'Ulanzi Awtrix Smart Clock est un écran à pixels connecté au Wi-Fi. 
 Il est personnalisable et peut afficher l'heure, la météo, des notifications, et surtout, des informations personnalisées envoyées via une API locale. 
 Ce projet exploite cette API pour transformer l'écran en un afficheur de poèmes.
 
 **Structure du projet**
+
 ├── awtrixPoemMistral.py  # Le script principal qui génère les poèmes
+
 ├── awtrixPoem.py         # Le script secondaire qui affiche les poèmes existants
+
 ├── requirements.txt      # Les dépendances Python
+
 └── poemes.json           # Fichier de log, créé automatiquement par awtrixPoemMistral.py
+
 **Note importante :** Le fichier poemes.json est généré par le script
 
 **Fonctionnalités**
