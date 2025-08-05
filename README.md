@@ -5,6 +5,7 @@ Il inclut une interface web pour consulter les poèmes passés, et un second scr
 
 <img width="1024" alt="Ulanzi Awtrix Smart Clock" src="https://github.com/user-attachments/assets/487727da-05c9-4eda-b654-6a94492f4295" />
 
+
 **Qu'est-ce que l'Ulanzi Awtrix Smart Clock ?**
 
 L'Ulanzi Awtrix Smart Clock est un écran à pixels connecté au Wi-Fi. 
@@ -24,6 +25,7 @@ Ce projet exploite cette API pour transformer l'écran en un afficheur de poème
 **Note importante :** Le fichier poemes.json est généré par le script
 
 **Fonctionnalités**
+
 - Génération par IA : Crée des poèmes en utilisant un agent personnalisé sur la plateforme Mistral AI.
 - Personnalisation : 20% des poèmes générés mentionnent un nom ou un lieu choisi au hasard dans une liste prédéfinie.
 - Formatage du texte : Formate automatiquement le texte pour être compatible avec l'affichage de l'Awtrix.
@@ -35,6 +37,7 @@ Ce projet exploite cette API pour transformer l'écran en un afficheur de poème
     - awtrixPoem.py : Pour afficher les poèmes de la collection existante.
 
 **Installation et Configuration**
+
 Prérequis :
 - Python 3
 - Un Ulanzi Awtrix Smart Clock connecté à votre réseau local.
