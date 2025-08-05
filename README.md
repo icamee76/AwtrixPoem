@@ -54,15 +54,15 @@ Prérequis :
    
         AGENT_ID: L'identifiant de votre agent Mistral.
    
-      Pour le créer :
-        - Allez dans la section Agents de Mistral.
-        - Créez un nouvel agent.
-        - Définissez le conditionnement de l'agent.
+      Pour le créer : Allez dans la section Agents de Mistral > Créez un nouvel agent > Définissez le conditionnement de l'agent
+   
       Une fois l'agent créé, copiez son ID (au format ag:xxx:xxx...) et collez-le dans le script.
+   
    Configurez awtrixPoem.py :
       Assurez-vous que la variable AWTRIX_API_URL est également correcte dans ce fichier. 
 
 **Utilisation**
+
 Le fonctionnement se fait en deux temps. Il faut d'abord créer et peupler la base de données de poèmes avant de pouvoir les afficher en boucle.
 
 Étape 1 : Générer la collection de poèmes (awtrixPoemMistral.py)
