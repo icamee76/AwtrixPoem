@@ -5,7 +5,6 @@ Il inclut une interface web pour consulter les poèmes passés, et un second scr
 
 <img width="1024" alt="Ulanzi Awtrix Smart Clock" src="https://github.com/user-attachments/assets/487727da-05c9-4eda-b654-6a94492f4295" />
 
-
 **Qu'est-ce que l'Ulanzi Awtrix Smart Clock ?**
 
 L'Ulanzi Awtrix Smart Clock est un écran à pixels connecté au Wi-Fi. 
@@ -48,9 +47,13 @@ Prérequis :
 2. Installez les dépendances : pip install -r requirements.txt
 3. Configurez awtrixPoemMistral.py :
       Ouvrez le fichier et modifiez les variables de configuration :
+
         AWTRIX_API_URL: L'adresse IP locale de votre Ulanzi Awtrix.
+   
         MISTRAL_API_KEY: Votre clé API secrète de Mistral.
+   
         AGENT_ID: L'identifiant de votre agent Mistral.
+   
       Pour le créer :
         - Allez dans la section Agents de Mistral.
         - Créez un nouvel agent.
